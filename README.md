@@ -1,8 +1,7 @@
 # CRUD-WEBSITE-JAVA-SPRINGBOOT
 saludos mi nombre es starling javier diaz aquino 
 aplique a java developer,
-sr.manuel sanchez,
-infosyp.
+Orionteck.
 Los primero que hice fue descargar las propiedades
 para la base de datos
 
