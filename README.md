@@ -1,7 +1,6 @@
 # CRUD-WEBSITE-JAVA-SPRINGBOOT
 saludos mi nombre es starling javier diaz aquino 
-aplique a java developer,
-Orionteck.
+ java developer
 Los primero que hice fue descargar las propiedades
 para la base de datos
 
@@ -33,8 +32,3 @@ tenga permitido los roles que yo le asigne.
 y el admin pueda tener todo el acceso.
  use bootstrap
 4 para generar el front end.
-
-la lista transational no la pude realizar porque no tengo
-conocimientos sobre como hacerla pero si estoy dispuesto a
-aprender. cree dos archivos javascript para obtener los
-datos pero me daba un error 404 de obtencion de la api.
